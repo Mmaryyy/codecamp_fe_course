@@ -18,6 +18,11 @@
   float: right;
 }
 
+/* 
 .box3 {
+  clear: both;
+} */
+
+.clearfix {
   clear: both;
 }
